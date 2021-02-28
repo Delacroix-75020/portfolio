@@ -19,7 +19,7 @@
                 <div class="col-lg-12 ml-auto">
                     <p class="lead">
                         Le forum four-tout est un projet de classe réalisée lors des vacances de la toussaint 2020. de ma deuxiéme année de BTS SIO </br> </br>
-                        Ce Projet a été réalisé avec mes camarades de classe Doll Adrien et Vignon Nicolas</br> </br>
+                        Ce Projet a été réalisé avec mes camarades de classe Adrien Doll et Nicolas Vignon </br> </br>
                         On a été chargé de réaliser un forum en ligne sur le thème de notre choix.Pour atteindre ce but, un certains nombre de contraintes devait être respectés.</br> </br>
                         Comme Contraintes imposée, on peut retrouver une interface administateur qui supprimera ou ajouteras des posts et/ou catégories. Ainsi que la réduction de message pour les utilisateurs</p>
                 </div>

@@ -1,4 +1,4 @@
-<header class="masthead bg-three text-white text-center">
+<header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="" />
@@ -15,7 +15,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Jeune Développeur WEB</p>
+                <p class="masthead-subheading font-weight-light mb-0">Jeune Développeur WEB en progression</p>
             </div>
         </header>
 <!-- About Section-->
@@ -34,9 +34,9 @@
                 <div class="col-lg-12 ml-auto">
                     <p class="lead">
                         Bonjour je m'appele Adrien Delacroix, je suis en deuxiéme année en BTS SIO option Solution Logicielles et Applications Métier et voici mon Portfolio de fin d'année </br> </br>
-                        Je suis pour l'instant un éleve de l'Ecolde IRIS</br> </br>
-                        Le programme a évolué en fonction de la place et du rôle des TIC (Technologies de l'Information et de la Communication).</br> </br>
-                        Et propose deux spécialités bien distinctes : Le BTS SIO Option SISR et le BTS SIO Option SLAM.</p>
+                        J'ai actuellement 20 ans et je suis pour l'instant un éleve de l'Ecolde IRIS située a Paris dans le 17éme arrondissement a porte de Champerret</br> </br>
+                        Je suis un grand passioné d'informatique et de Web design, je compte dans la vie professionnel me spécialisée en tant que programmeur en entreprise</br> </br>
+                        Hormis l'informatique je suis un grand fan de Basket, un férue d'Histoire, et de jeux vidéo</p>
                 </div>
             </div>
 
@@ -67,7 +67,7 @@
         </div>
     </section>
     <!-- About Section-->
-    <section class="page-section bg-primary text-white mb-0" id="about">
+    <section class="page-section bg-three text-white mb-0" id="about">
         <div class="container">
             <!-- About Section Heading-->
             <h2 class="page-section-heading text-center text-uppercase text-white">Les Deux Spécialités</h2>

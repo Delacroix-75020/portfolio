@@ -12,9 +12,9 @@
             <div class="row">
                 <div class="col-lg-12 ml-auto">
                     <p class="lead">
-                        Filelec est le nom du projet personalisée encadrée de fin d'études du BTS SIO. Ce projet a été réalisée avec deux de mes camarades de classe Nicolas Vignon et Adrien DOll </br> </br>
+                        Filelec est le nom du projet personalisée encadrée de fin d'études du BTS SIO. Ce projet a été réalisée avec deux de mes camarades de classe Nicolas Vignon et Adrien Doll </br> </br>
                         Ce Projet consiste a crée un site de revente de matérielle et d'accéssoire Automobiles</br> </br>
-                        Le Projet etant encore en cours de réalisation les photos montrés en dessous seront peut-étre obseléte et passé par rapport a la version finale qui sera présenté au mois de Mai 2021</br> </br>
+                        Le Projet etant encore en cours de réalisation les photos montrés en dessous seront peut-étre obseléte et passé par rapport a la version finale qui sera présenté au mois de Mai 2021</br></br>
                         </p>
                 </div>
             </div>
