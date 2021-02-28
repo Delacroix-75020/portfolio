@@ -52,9 +52,9 @@
 
 
 <div>
-<a class="zoombox zgallery1 mt-4 ml-4" href="assets/portfolio/categorie.jpg" ><img src="assets/portfolio/categorie.jpg" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" href="assets/portfolio/registerF.png" ><img src="assets/portfolio/registerF.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" href="assets/portfolio/post.jpg" ><img src="assets/portfolio/post.jpg" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>   
+<a class="zoombox zgallery1 mt-4 ml-4" href="assets/portfolio/forum/categorie.jpg" ><img src="assets/portfolio/forum/categorie.jpg" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" href="assets/portfolio/forum/registerF.png" ><img src="assets/portfolio/forum/registerF.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" href="assets/portfolio/forum/post.jpg" ><img src="assets/portfolio/forum/post.jpg" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>   
 </div>
 </div>
 </section>

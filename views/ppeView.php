@@ -43,15 +43,15 @@
 
 
 <div>
-<a class="zoombox zgallery1 mt-4 ml-4" title="La page qui renseigne un texte sur notre entreprise" href="assets/portfolio/aboutus.png" ><img src="assets/portfolio/aboutus.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Le Panier de notre sîte" href="assets/portfolio/panier.jpg" ><img src="assets/portfolio/panier.jpg" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Le MCD de notre PPE" href="assets/portfolio/mcdppe.png" ><img src="assets/portfolio/mcdppe.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>   
+<a class="zoombox zgallery1 mt-4 ml-4" title="La page qui renseigne un texte sur notre entreprise" href="assets/portfolio/filelec/aboutus.png" ><img src="assets/portfolio/filelec/aboutus.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" title="Le Panier de notre sîte" href="assets/portfolio/filelec/panier.jpg" ><img src="assets/portfolio/filelec/panier.jpg" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" title="Le MCD de notre PPE" href="assets/portfolio/filelec/mcdppe.png" ><img src="assets/portfolio/filelec/mcdppe.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>   
 </div>
 <br>
 <div>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Page Profile renseignant les Attributs de l'utilisateur" href="assets/portfolio/profile.png" ><img src="assets/portfolio/profile.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Page de Connexion de notre sîte" href="assets/portfolio/login.png" ><img src="assets/portfolio/login.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Boutique de ^Filelec" href="assets/portfolio/store.png" ><img src="assets/portfolio/store.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a> 
+<a class="zoombox zgallery1 mt-4 ml-4" title="Page Profile renseignant les Attributs de l'utilisateur" href="assets/portfolio/filelec/profile.png" ><img src="assets/portfolio/filelec/profile.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" title="Page de Connexion de notre sîte" href="assets/portfolio/filelec/login.png" ><img src="assets/portfolio/filelec/login.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" title="Boutique de ^Filelec" href="assets/portfolio/filelec/store.png" ><img src="assets/portfolio/filelec/store.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a> 
 </div>
 
 </div>
