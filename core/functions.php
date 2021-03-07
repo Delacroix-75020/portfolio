@@ -3,7 +3,7 @@
 function connectBDD(){
     
     try{
-        $bdd = new PDO("mysql:host=localhost;dbname=forum","root","");
+        $bdd = new PDO("mysql:host=localhost;dbname=portfolio","root","");
         return $bdd;
     }catch(Exception $e){
         die("erreur bdd");

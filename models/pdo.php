@@ -4,7 +4,7 @@ $bdd = new PDO('mysql:host=localhost;dbname=portfolio', 'root', '');
 
 function getlesprojets(PDO $bdd){
 
-	$req = "SELECT projet.lien as lien, projet.idc as idc, projet.libelle as libelle, projet.idp as idp, projet.description as description, image.nom as nom FROM projet, image WHERE projet.idi = image.idi";
+	$req = "SELECT projet.github as github, projet.lien as lien, projet.idc as idc, projet.libelle as libelle, projet.idp as idp, projet.description as description, image.nom as nom FROM projet, image WHERE projet.idi = image.idi";
 
 	$res = $bdd -> query($req);
 

@@ -1,3 +1,27 @@
+<section class="page-section bg-primary text-white mb-0" id="about">
+        <div class="container">
+            <!-- About Section Heading-->
+            <h2 class="page-section-heading text-center text-uppercase text-white">Mes differents projets</h2>
+            <!-- Icon Divider-->
+            <div class="divider-custom divider-light">
+                <div class="divider-custom-line"></div>
+                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                <div class="divider-custom-line"></div>
+            </div>
+            <!-- About Section Content-->
+            <div class="row">
+                <div class="col-lg-12 ml-auto">
+                    <p class="lead">
+                        Dans cette section de mon portfolio vous retrouverez tous les travaux que j'ai effectué lors de ma scolarité, mais aussi tous les travaux de mon parcours professionnel</br> </br>
+                        Vous pouvez y retrouvez notament tous mes projets de BTS comme mon PPE, ou mes travaux fait en stage </br> </br>
+                        </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
 <!-- Portfolio Section-->
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
@@ -21,7 +45,8 @@
                         $description = $ligne['description'];
                         $categorie = $ligne['idc'];
                         $nom = $ligne['nom'];
-                        $lien = $ligne['lien'];# code...
+                        $lien = $ligne['lien'];
+                        $github = $ligne['github'];# code...
                     
 
                     ?>      
@@ -57,12 +82,8 @@
                                     <img class="img-fluid rounded mb-5" src="assets/portfolio/<?= $nom ?>" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5"><?= $description?></p>
-                                    
-                                    <a class="btn btn-primary" href="<?= $lien ?>">Ouvrir <?= $libelle ?></a>  
-
-                                  
-
-
+                                        <a class="btn btn-primary" href="<?= $lien ?>">Ouvrir le projet <?= $libelle ?></a>
+                                        <a class="btn btn-primary" href="https://github.com/Delacroix-75020/<?= $github ?>"target="_blank">Ouvrir <?= $libelle ?> sur Github</a>
                                          <button class="btn btn-primary" data-dismiss="modal">
                                              <i class="fas fa-times fa-fw"></i>
                                              Fermer cette fenetre

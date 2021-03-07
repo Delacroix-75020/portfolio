@@ -97,15 +97,15 @@
 
 
 <div>
-<a class="zoombox zgallery1 mt-4 ml-4" title="La page qui renseigne un texte sur notre entreprise" href="assets/portfolio/stage/contrat.png" ><img src="assets/portfolio/stage/contrat.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Le Panier de notre sîte" href="assets/portfolio/stage/details.png" ><img src="assets/portfolio/stage/details.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Le MCD de notre PPE" href="assets/portfolio/stage/ajout.png" ><img src="assets/portfolio/stage/ajout.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>   
+<a class="zoombox zgallery1 mt-4 ml-4" title="La page qui renseigne tous les contrats de l'offi" href="assets/portfolio/stage/contrat.png" ><img src="assets/portfolio/stage/contrat.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" title="Les details complet du contrat lorsqu'on appuie sur l'icône d'information" href="assets/portfolio/stage/details.png" ><img src="assets/portfolio/stage/details.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" title="La fonction ajout" href="assets/portfolio/stage/ajout.png" ><img src="assets/portfolio/stage/ajout.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>   
 </div>
 <br>
 <div>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Page Profile renseignant les Attributs de l'utilisateur" href="assets/portfolio/stage/delete.png" ><img src="assets/portfolio/stage/delete.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Page de Connexion de notre sîte" href="assets/portfolio/stage/modif1.png" ><img src="assets/portfolio/stage/modif1.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
-<a class="zoombox zgallery1 mt-4 ml-4" title="Boutique de ^Filelec" href="assets/portfolio/stage/modif2.png" ><img src="assets/portfolio/stage/modif2.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a> 
+<a class="zoombox zgallery1 mt-4 ml-4" title="La fonction Supprimer pour delete un contrat" href="assets/portfolio/stage/delete.png" ><img src="assets/portfolio/stage/delete.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" title="La selection du contrat a modifier via son identifiant" href="assets/portfolio/stage/modif1.png" ><img src="assets/portfolio/stage/modif1.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a>
+<a class="zoombox zgallery1 mt-4 ml-4" title="La page de modification en details" href="assets/portfolio/stage/modif2.png" ><img src="assets/portfolio/stage/modif2.png" class="bordered" alt="" WIDTH=30% HEIGHT=30%/></a> 
 </div>
 
 </div>

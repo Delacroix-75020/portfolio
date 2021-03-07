@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le :  Dim 28 fév. 2021 à 13:10
+-- Généré le :  sam. 06 mars 2021 à 15:44
 -- Version du serveur :  10.4.8-MariaDB
 -- Version de PHP :  7.3.10
 
@@ -81,6 +81,7 @@ CREATE TABLE `projet` (
   `libelle` varchar(70) NOT NULL,
   `description` varchar(255) NOT NULL,
   `lien` varchar(255) NOT NULL,
+  `github` varchar(55) NOT NULL,
   `idc` int(11) NOT NULL,
   `idi` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
@@ -89,11 +90,11 @@ CREATE TABLE `projet` (
 -- Déchargement des données de la table `projet`
 --
 
-INSERT INTO `projet` (`idp`, `libelle`, `description`, `lien`, `idc`, `idi`) VALUES
-(2, 'Filelec', 'Filelec est le nom du projet personalisée encadrée de fin d\'études du BTS SIO. Ce projet a été réalisée avec deux de mes camarades de classe Nicolas Vignon et Adrien DOll,Ce projet rassemble les langages : PHP, HTML, SQL, CSS', 'ppe', 1, 1),
-(3, 'Forum', 'Cette section est en rapport avec le projet réalisée pendant les vacances de Toussaint 2020 et qui concerne la réalisation d\'un forum. Réalisé en Langages HTML , CSS, PHP et avec une base de donnée', 'forum', 1, 2),
-(4, 'Stage', 'Dans cette section vous retrouverez le contenu lié a mes stages effectués ces deux années de BTS, tous les deux ont été fait a L\'Office Français de l\'Immigration et de l\'Intégration (OFII) les deux dans le cadre sanitaire du Covid19', 'stage', 3, 3),
-(8, 'Veille Technologique', 'Cette partie est destiné a la veille technologique. Malheureusement elle n\'est pas encore disponible vu qu\'elle n\'est pas finit. Veuillez attendre', '', 7, 4);
+INSERT INTO `projet` (`idp`, `libelle`, `description`, `lien`, `github`, `idc`, `idi`) VALUES
+(2, 'Filelec', 'Filelec est le nom du projet personalisée encadrée de fin d\'études du BTS SIO. Ce projet a été réalisée avec deux de mes camarades de classe Nicolas Vignon et Adrien DOll,Ce projet rassemble les langages : PHP, HTML, SQL, CSS', 'ppe', '', 1, 1),
+(3, 'Forum', 'Cette section est en rapport avec le projet réalisée pendant les vacances de Toussaint 2020 et qui concerne la réalisation d\'un forum. Réalisé en Langages HTML , CSS, PHP et avec une base de donnée', 'forum', 'Forum_', 1, 2),
+(4, 'Stage', 'Dans cette section vous retrouverez le contenu lié a mes stages effectués ces deux années de BTS, tous les deux ont été fait a L\'Office Français de l\'Immigration et de l\'Intégration (OFII) les deux dans le cadre sanitaire du Covid19', 'stage', '', 3, 3),
+(8, 'Veille Technologique', 'Cette partie est destiné a la veille technologique. Malheureusement elle n\'est pas encore disponible vu qu\'elle n\'est pas finit. Veuillez attendre', '', '', 7, 4);
 
 -- --------------------------------------------------------
 
@@ -104,17 +105,16 @@ INSERT INTO `projet` (`idp`, `libelle`, `description`, `lien`, `idc`, `idi`) VAL
 CREATE TABLE `users` (
   `id` int(11) NOT NULL,
   `username` varchar(100) NOT NULL,
-  `email` varchar(70) NOT NULL,
-  `pass` varchar(25) NOT NULL
+  `mail` varchar(70) NOT NULL,
+  `mdp` varchar(25) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Déchargement des données de la table `users`
 --
 
-INSERT INTO `users` (`id`, `username`, `email`, `pass`) VALUES
-(1, 'Adrien Delacroix', 'ad.dela75020@gmail.com', '4f9996ad3b634ef65d772b702'),
-(2, 'delprat', 'admin@portfolio.com', 'admin');
+INSERT INTO `users` (`id`, `username`, `mail`, `mdp`) VALUES
+(3, 'admin', 'admin@admin.com', 'admin');
 
 --
 -- Index pour les tables déchargées
@@ -166,13 +166,13 @@ ALTER TABLE `image`
 -- AUTO_INCREMENT pour la table `projet`
 --
 ALTER TABLE `projet`
-  MODIFY `idp` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `idp` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT pour la table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- Contraintes pour les tables déchargées
