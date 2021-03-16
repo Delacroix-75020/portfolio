@@ -93,8 +93,7 @@ CREATE TABLE `projet` (
 INSERT INTO `projet` (`idp`, `libelle`, `description`, `lien`, `github`, `idc`, `idi`) VALUES
 (2, 'Filelec', 'Filelec est le nom du projet personalisée encadrée de fin d\'études du BTS SIO. Ce projet a été réalisée avec deux de mes camarades de classe Nicolas Vignon et Adrien DOll,Ce projet rassemble les langages : PHP, HTML, SQL, CSS', 'ppe', '', 1, 1),
 (3, 'Forum', 'Cette section est en rapport avec le projet réalisée pendant les vacances de Toussaint 2020 et qui concerne la réalisation d\'un forum. Réalisé en Langages HTML , CSS, PHP et avec une base de donnée', 'forum', 'Forum_', 1, 2),
-(4, 'Stage', 'Dans cette section vous retrouverez le contenu lié a mes stages effectués ces deux années de BTS, tous les deux ont été fait a L\'Office Français de l\'Immigration et de l\'Intégration (OFII) les deux dans le cadre sanitaire du Covid19', 'stage', '', 3, 3),
-(8, 'Veille Technologique', 'Cette partie est destiné a la veille technologique. Malheureusement elle n\'est pas encore disponible vu qu\'elle n\'est pas finit. Veuillez attendre', '', '', 7, 4);
+(4, 'Stage', 'Dans cette section vous retrouverez le contenu lié a mes stages effectués ces deux années de BTS, tous les deux ont été fait a L\'Office Français de l\'Immigration et de l\'Intégration (OFII) les deux dans le cadre sanitaire du Covid19', 'stage', '', 3, 3);
 
 -- --------------------------------------------------------
 
